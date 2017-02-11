@@ -11,7 +11,7 @@ NIST special database 19 contains iages of handwritten characters. There are aro
 
 The alphabets (lower case letters) from NIST dataset is segregated and trained on caffe using Googlenet. The images are 128 x 128 in the dataset and are upsampled to 256 x 256 to be trained on googlenet. For training purpose, 4000 images (on average) per class is randomly chosen to out of which 2000 images per class is used for training and 1000 images each are used to create testing set and validation set.
 
-![Alt text](NIST-Handwritten-Alphabets-Lowercase/Images/lowercase.png "Training Accuracy and loss")
+![Alt text](https://github.com/vj-1988/NIST-Handwritten-Alphabets-Lowercase/blob/master/Images/lowercase.png "Training Accuracy and loss")
 
 
 The caffemodel can be downloaded from the below link
